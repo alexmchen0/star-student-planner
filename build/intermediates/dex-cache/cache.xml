@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/Projects/Android/Testing/Ver2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8743ce6b29b0a456fff6093e0b882ace5171b98">
+        <dex dex="/Users/Alex/Projects/Android/Testing/Ver2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_05c8ab1e9e7747339e93f3153d8e31a91066cf23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/.android/build-cache/f4e9461ddef964e3077e24617c65bbfbe2e1f119/output/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/Alex/Projects/Android/Testing/Ver2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_1e059c706cc38ec16413ad93cab9d6d6de0e7060/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/.android/build-cache/eff99390980b5910673449342868344e776a1468/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/Alex/Projects/Android/Testing/Ver2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c4e5340750634800b723320d3a07d234536cdca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/Projects/Android/Testing/Ver2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Alex/Projects/Android/Testing/Ver2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c0c7a626e78ff242492dda734efad31f748ec312/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/.android/build-cache/59dcc75cbb482478f1663631f559114ffb318f7d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/Alex/Projects/Android/Testing/Ver2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_13f7e19df191140b096fc9b397b0d051faccf900/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/Alex/Projects/Android/Testing/Ver2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_e27942b5c01dc3bd11b80fa0d86f6f21cef2fc03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/.android/build-cache/9be7e51a266a2e9f2210331ba2a2455866318959/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/Alex/Projects/Android/Testing/Ver2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a3a29d96b36f69e1cbedb2f6ea89bc7ed37365fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/.android/build-cache/f4e9461ddef964e3077e24617c65bbfbe2e1f119/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/Alex/Projects/Android/Testing/Ver2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf2df7bc2166f31d500786809ea7741b301fd23d/classes.dex" />
+    </item>
+
+</items>
