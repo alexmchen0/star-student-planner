@@ -114,7 +114,7 @@ public class NavigationDrawerActivity extends AppCompatActivity implements Navig
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.navigation_drawer, menu);
-        menu.add(Menu.NONE, MENU_DELETE, Menu.NONE, "Delete all");
+        menu.add(Menu.NONE, MENU_DELETE, Menu.NONE, "Удалить всё");
         //menu.add(Menu.NONE, MENU_DUMP, Menu.NONE, "Dump to log");
         return true;
     }
@@ -187,7 +187,7 @@ public class NavigationDrawerActivity extends AppCompatActivity implements Navig
             if (intent.resolveActivity(getPackageManager()) != null)
                 startActivity(intent);
         } else if (id == R.id.nav_help) {
-            Uri form = Uri.parse("https://docs.google.com/forms/d/17q_tTfuvtiPtRVwxEiq0g5PFk64HSrsuiFI_mBFdlkk");
+            Uri form = Uri.parse("https://vk.com/polina.bobrov");
             Intent intent = new Intent(Intent.ACTION_VIEW, form);
             if (intent.resolveActivity(getPackageManager()) != null)
                 startActivity(intent);
@@ -204,7 +204,7 @@ public class NavigationDrawerActivity extends AppCompatActivity implements Navig
             // Use the Builder class for convenient dialog construction
             AlertDialog.Builder builder = new AlertDialog.Builder(getActivity());
             boolean[] bullshit = {true, true, false};
-            builder.setTitle("Sort by:")
+            builder.setTitle("Сортировать по:")
                     .setMultiChoiceItems(R.array.sort_by_list, bullshit,
                             new DialogInterface.OnMultiChoiceClickListener() {
                                 @Override
@@ -215,12 +215,12 @@ public class NavigationDrawerActivity extends AppCompatActivity implements Navig
                                     }
                                 }
                             })
-                    .setPositiveButton("Sort", new DialogInterface.OnClickListener() {
+                    .setPositiveButton("Сортировка", new DialogInterface.OnClickListener() {
                         public void onClick(DialogInterface dialog, int id) {
                             // FIRE ZE MISSILES!
                         }
                     })
-                    .setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
+                    .setNegativeButton("Отмена", new DialogInterface.OnClickListener() {
                         public void onClick(DialogInterface dialog, int id) {
                             // User cancelled the dialog
                         }

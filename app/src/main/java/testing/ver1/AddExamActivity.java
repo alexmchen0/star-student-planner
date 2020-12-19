@@ -127,22 +127,22 @@ public class AddExamActivity extends AppCompatActivity {
         String subject = extras.getString(ToDoItem.SUBJECT);
 
         if (subject == null) ;
-        else if (subject.equals("English")) {
+        else if (subject.equals("Прикладная статистика")) {
             actionBar.setBackgroundDrawable(new ColorDrawable(ContextCompat.getColor(this, R.color.red)));
             window.setStatusBarColor(ContextCompat.getColor(this, R.color.redDark));
-        } else if (subject.equals("Calculus")) {
+        } else if (subject.equals("Культурология")) {
             actionBar.setBackgroundDrawable(new ColorDrawable(ContextCompat.getColor(this, R.color.orange)));
             window.setStatusBarColor(ContextCompat.getColor(this, R.color.orangeDark));
-        } else if (subject.equals("Chemistry")) {
+        } else if (subject.equals("Информатика")) {
             actionBar.setBackgroundDrawable(new ColorDrawable(ContextCompat.getColor(this, R.color.yellow)));
             window.setStatusBarColor(ContextCompat.getColor(this, R.color.yellowDark));
-        } else if (subject.equals("Physics")) {
+        } else if (subject.equals("Философия")) {
             actionBar.setBackgroundDrawable(new ColorDrawable(ContextCompat.getColor(this, R.color.green)));
             window.setStatusBarColor(ContextCompat.getColor(this, R.color.greenDark));
-        } else if (subject.equals("Economics")) {
+        } else if (subject.equals("Экономика")) {
             actionBar.setBackgroundDrawable(new ColorDrawable(ContextCompat.getColor(this, R.color.blue)));
             window.setStatusBarColor(ContextCompat.getColor(this, R.color.blueDark));
-        } else if (subject.equals("Comp Sci")) {
+        } else if (subject.equals("Социалогия")) {
             actionBar.setBackgroundDrawable(new ColorDrawable(ContextCompat.getColor(this, R.color.purple)));
             window.setStatusBarColor(ContextCompat.getColor(this, R.color.purpleDark));
         } else ;
@@ -163,10 +163,10 @@ public class AddExamActivity extends AppCompatActivity {
         Calendar c = Calendar.getInstance();
 
         if (c.get(Calendar.YEAR) == year && c.get(Calendar.MONTH) == monthOfYear && c.get(Calendar.DAY_OF_MONTH) + 1 == dayOfMonth)
-            dateString = "Tomorrow";
+            dateString = "Завтра";
 
         else if (c.get(Calendar.YEAR) == year && c.get(Calendar.MONTH) == monthOfYear && c.get(Calendar.DAY_OF_MONTH) == dayOfMonth)
-            dateString = "Today";
+            dateString = "Сегодня";
 
         else {
             monthOfYear++;

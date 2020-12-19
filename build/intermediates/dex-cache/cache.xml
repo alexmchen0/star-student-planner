@@ -2,76 +2,76 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/Users/Alex/Projects/Android/Testing/Ver2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\EddDoubleD\.android\build-cache\1d9ce37fa2b06eb4cc1b81d798e2dd6b6a358a0f\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="d8743ce6b29b0a456fff6093e0b882ace5171b98">
-        <dex dex="/Users/Alex/Projects/Android/Testing/Ver2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_05c8ab1e9e7747339e93f3153d8e31a91066cf23/classes.dex" />
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\github\android\Graduate-Planner\app\build\intermediates\pre-dexed\debug\classes_982dd3ad6e5a8e4e6a32028429a87b3c63df1dd8.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/Alex/.android/build-cache/f4e9461ddef964e3077e24617c65bbfbe2e1f119/output/jars/libs/internal_impl-23.1.1.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\EddDoubleD\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\23.4.0\ffbe55fdb2bb456b1485831706a9eac3300bb6b8\support-annotations-23.4.0.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="/Users/Alex/Projects/Android/Testing/Ver2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_1e059c706cc38ec16413ad93cab9d6d6de0e7060/classes.dex" />
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\github\android\Graduate-Planner\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_3ee48b76511ab9cf6badbc3c21227558df16f6f7.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/Alex/.android/build-cache/eff99390980b5910673449342868344e776a1468/output/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\EddDoubleD\.android\build-cache\77f8c82fe245fee48082632d0b7f59bde8b82c30\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
-        <dex dex="/Users/Alex/Projects/Android/Testing/Ver2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c4e5340750634800b723320d3a07d234536cdca/classes.dex" />
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\github\android\Graduate-Planner\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_9c617859c939df90292797d03ab6813c14465329.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/Alex/Projects/Android/Testing/Ver2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\EddDoubleD\.android\build-cache\77f8c82fe245fee48082632d0b7f59bde8b82c30\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/Alex/Projects/Android/Testing/Ver2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c0c7a626e78ff242492dda734efad31f748ec312/classes.dex" />
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\github\android\Graduate-Planner\app\build\intermediates\pre-dexed\debug\classes_872d8f61e90186c62b2bc80cfa3e6debc356e527.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/Alex/.android/build-cache/59dcc75cbb482478f1663631f559114ffb318f7d/output/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\EddDoubleD\.android\build-cache\06740ef345cda13eff7f8674780a59ce370ae31d\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="/Users/Alex/Projects/Android/Testing/Ver2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_13f7e19df191140b096fc9b397b0d051faccf900/classes.dex" />
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\github\android\Graduate-Planner\app\build\intermediates\pre-dexed\debug\classes_cb666a58a37617386b57d209f933ec002a988347.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/Alex/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\EddDoubleD\.android\build-cache\ea550fdee76e05f4b1baa7657f7ec485f2d1f132\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="/Users/Alex/Projects/Android/Testing/Ver2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_e27942b5c01dc3bd11b80fa0d86f6f21cef2fc03/classes.dex" />
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\github\android\Graduate-Planner\app\build\intermediates\pre-dexed\debug\classes_c4932ca84ad0294318127183253712866676ec4f.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/Alex/.android/build-cache/9be7e51a266a2e9f2210331ba2a2455866318959/output/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\EddDoubleD\.android\build-cache\2776f77088becd5db095d289d115514c7a97ddba\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
-        <dex dex="/Users/Alex/Projects/Android/Testing/Ver2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a3a29d96b36f69e1cbedb2f6ea89bc7ed37365fc/classes.dex" />
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\github\android\Graduate-Planner\app\build\intermediates\pre-dexed\debug\classes_d7352c399dafe2417095b4089d5ebb373fbdad83.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/Alex/.android/build-cache/f4e9461ddef964e3077e24617c65bbfbe2e1f119/output/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\EddDoubleD\.android\build-cache\af74054cb06e0b7708936aa276630808f9257966\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="/Users/Alex/Projects/Android/Testing/Ver2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf2df7bc2166f31d500786809ea7741b301fd23d/classes.dex" />
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\github\android\Graduate-Planner\app\build\intermediates\pre-dexed\debug\classes_f730549eb7bfc1b264036ecbc7c4b4112ccff8e9.jar" />
     </item>
 
 </items>

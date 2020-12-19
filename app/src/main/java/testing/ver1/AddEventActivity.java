@@ -177,10 +177,10 @@ public class AddEventActivity extends AppCompatActivity {
         Calendar c = Calendar.getInstance();
 
         if (c.get(Calendar.YEAR) == year && c.get(Calendar.MONTH) == monthOfYear && c.get(Calendar.DAY_OF_MONTH) + 1 == dayOfMonth)
-            dateString = "Tomorrow";
+            dateString = "Завтра";
 
         else if (c.get(Calendar.YEAR) == year && c.get(Calendar.MONTH) == monthOfYear && c.get(Calendar.DAY_OF_MONTH) == dayOfMonth)
-            dateString = "Today";
+            dateString = "Сегодня";
 
         else {
             monthOfYear++;
