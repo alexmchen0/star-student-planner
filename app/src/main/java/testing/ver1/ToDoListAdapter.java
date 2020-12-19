@@ -162,10 +162,10 @@ public class ToDoListAdapter extends BaseAdapter {
         String dateString;
 
         if (c.get(Calendar.YEAR) == date.get(Calendar.YEAR) && c.get(Calendar.DAY_OF_YEAR) + 1 == date.get(Calendar.DAY_OF_YEAR))
-            dateString = "Tomorrow";
+            dateString = "Завтра";
 
         else if (c.get(Calendar.YEAR) == date.get(Calendar.YEAR) && c.get(Calendar.DAY_OF_YEAR) == date.get(Calendar.DAY_OF_YEAR))
-            dateString = "Today";
+            dateString = "Сегодня";
 
         else {
             int monthOfYear = date.get(Calendar.MONTH) + 1;
